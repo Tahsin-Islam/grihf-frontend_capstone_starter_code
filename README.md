@@ -1,6 +1,6 @@
-Medical Appointment Booking 
--Create appointments
--Find doctors with ease
--Leave reviews
--Make accounts
+## Medical Appointment Booking 
+- Create appointments
+- Find doctors with ease
+- Leave reviews
+- Make accounts
 
